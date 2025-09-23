@@ -1,0 +1,46 @@
+
+
+
+
+iiiiiiiiiiiiiiiiiiiiiiiiii
+:wq
+
+`# Please enter the commit message for your changes. Line starting
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   HW1/HelloWorld.java
+#	new file:   HW2/build.gradle
+#	new file:   HW2/src/main/java/Appearances.java
+#	new file:   HW2/src/main/java/CharGrid.java
+#	new file:   HW2/src/main/java/Point.java
+#	new file:   HW2/src/main/java/Shape.java
+#	new file:   HW2/src/main/java/StringCode.java
+#	new file:   HW2/src/main/java/Taboo.java
+#	new file:   HW2/src/main/java/TetrisGrid.java
+#	new file:   HW2/src/test/java/AppearancesTest.java
+#	new file:   HW2/src/test/java/CharGridTest.java
+#	new file:   HW2/src/test/java/PointTest.java
+#	new file:   HW2/src/test/java/StringCodeTest.java
+#	new file:   HW2/src/test/java/TabooTest.java
+#	new file:   HW2/src/test/java/TetrisGridTest.java
+#	new file:   HW3/build.gradle
+#	new file:   HW3/src/main/java/BadBrain.java
+#	new file:   HW3/src/main/java/Board.java
+#	new file:   HW3/src/main/java/Brain.java
+#	new file:   HW3/src/main/java/DefaultBrain.java
+#	new file:   HW3/src/main/java/JTetris.java
+#	new file:   HW3/src/main/java/Piece.java
+#	new file:   HW3/src/main/java/TPoint.java
+#	new file:   HW3/src/test/java/BoardTest.java
+#	new file:   HW3/src/test/java/PieceTest.java
+#	new file:   README.md
+#
+# Untracked files:
+#	.gitignore
+#
