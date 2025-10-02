@@ -20,13 +20,26 @@ public class CharGrid {
 	 * @return area for given char
 	 */
 	public int charArea(char ch) {
-		return 0; // YOUR CODE HERE
+        int n = grid.length;
+        int m = grid[0].length;
+        int tren = n, duoi = -1, trai = m, phai = -1;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == ch) {
+                    tren = Math.min(tren, i);
+                    duoi = Math.max(duoi, i);
+                    trai = Math.min(trai, j);
+                    phai = Math.max(phai, j);
+                }
+            }
+        }
+
+        if (duoi == -1) return 0;
+        return (duoi - tren + 1) * (phai - trai + 1);
 	}
-	
-	/**
-	 * Returns the count of '+' figures in the grid (see handout).
-	 * @return number of + in grid
-	 */
+
+
 	public int countPlus() {
 		return 0; // YOUR CODE HERE
 	}
